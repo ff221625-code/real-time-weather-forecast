@@ -117,6 +117,24 @@ cd real-time-weather-forecast
 pip install -r requirements.txt
 ```
 ---
+## ▶️ How to Run
+
+```bash
+python app.py
+http://127.0.0.1:5000/
+```
+---
+
+## 🔐 API Configuration
+
+The project uses an OpenWeatherMap API key, add:
+
+Create a `.env` file in the project folder and add:
+
+```env
+OPENWEATHER_API_KEY=your_api_key_here
+```
+---
 
 ## 📸 Screenshots
 
