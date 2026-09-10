@@ -93,3 +93,42 @@ The application follows a simple client-server architecture.
                  │ Temperature, Humidity│
                  │ Wind & Condition     │
                  └──────────────────────┘
+
+## 📁 Project Structure
+
+real-time-weather-forecast/
+├── app.py
+├── requirements.txt
+├── .gitignore
+├── templates/
+│   └── index.html
+└── static/
+    └── images/
+
+## ⚙️ Installation & Setup
+
+git clone https://github.com/ff221625-code/real-time-weather-forecast.git
+cd real-time-weather-forecast
+pip install -r requirements.txt
+
+
+## 📸 Screenshots
+
+### 🌦️ Weather Forecast Interface
+
+![Weather Forecast](screenshots/weather.png)
+
+## 🚀 Future Enhancements
+
+📅 5-day or 7-day weather forecast
+📍 Automatic location detection
+🗺️ Interactive weather maps
+🌅 Sunrise and sunset information
+🌡️ Feels-like temperature
+📊 Weather charts and graphs
+🌧️ Precipitation probability
+🌍 Multiple location comparison
+
+## 👩‍💻 Author
+Firdous Fathima
+Computer Science & Engineering
