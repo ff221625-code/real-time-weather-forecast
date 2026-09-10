@@ -128,17 +128,19 @@ pip install -r requirements.txt
 
 ## 🚀 Future Enhancements
 
--📅 5-day or 7-day weather forecast
--📍 Automatic location detection
--🗺️ Interactive weather maps
--🌅 Sunrise and sunset information
--🌡️ Feels-like temperature
--📊 Weather charts and graphs
--🌧️ Precipitation probability
--🌍 Multiple location comparison
+- 📅 5-day or 7-day weather forecast
+- 📍 Automatic location detection
+- 🗺️ Interactive weather maps
+- 🌅 Sunrise and sunset information
+- 🌡️ Feels-like temperature
+- 📊 Weather charts and graphs
+- 🌧️ Precipitation probability
+- 🌍 Multiple location comparison
 
 ---
 
 ## 👩‍💻 Author
+
 Firdous Fathima
+
 Computer Science & Engineering
