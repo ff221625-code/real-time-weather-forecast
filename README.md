@@ -94,6 +94,8 @@ The application follows a simple client-server architecture.
                  │ Wind & Condition     │
                  └──────────────────────┘
 
+----
+
 ## 📁 Project Structure
 
 real-time-weather-forecast/
@@ -105,18 +107,23 @@ real-time-weather-forecast/
 └── static/
     └── images/
 
+---
+
 ## ⚙️ Installation & Setup
 
 git clone https://github.com/ff221625-code/real-time-weather-forecast.git
 cd real-time-weather-forecast
 pip install -r requirements.txt
 
+---
 
 ## 📸 Screenshots
 
 ### 🌦️ Weather Forecast Interface
 
 ![Weather Forecast](screenshots/weather.png)
+
+---
 
 ## 🚀 Future Enhancements
 
@@ -128,6 +135,8 @@ pip install -r requirements.txt
 📊 Weather charts and graphs
 🌧️ Precipitation probability
 🌍 Multiple location comparison
+
+---
 
 ## 👩‍💻 Author
 Firdous Fathima
