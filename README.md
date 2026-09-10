@@ -135,13 +135,20 @@ Create a `.env` file in the project folder and add:
 OPENWEATHER_API_KEY=your_api_key_here
 ```
 ---
-
 ## 📸 Screenshots
 
-### 🌦️ Weather Forecast Interface
-```
-![Weather Forecast](screenshots/weather.png)
-```
+### 🌤️ Home Page
+
+![Home Page](screenshots/Home%20page.jpg)
+
+### 📝 Input Screen
+
+![Input Screen](screenshots/input%20screen.jpg)
+
+### 📊 Output Screen
+
+![Output Screen](screenshots/output%20screen.jpg)
+
 ---
 
 ## 🚀 Future Enhancements
